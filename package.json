@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-min",
+  "version": "1.0.0",
+  "description": "Minimum configuration of Gatsby",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadnessOjisan/gatsby-min.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadnessOjisan/gatsby-min/issues"
+  },
+  "homepage": "https://github.com/sadnessOjisan/gatsby-min#readme",
+  "dependencies": {
+    "gatsby": "^4.3.0"
+  }
+}
