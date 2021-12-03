@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-jsx-c48b4a15f53a12f59f67.js","mappings":"gIAEA,qBACE,OAAO","sources":["webpack://gatsby-min/./src/pages/index.jsx"],"sourcesContent":["import React from \"react\";\n\nexport default () => {\n  return <div>hello</div>;\n};\n"],"names":[],"sourceRoot":""}
